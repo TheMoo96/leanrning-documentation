@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "790277e898e630a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a67eb9fbcd81949c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base info.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b6e825754d97da20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes and Structs.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0a15f752a457e5b4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Examples/Classes and Structs.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac3684d243dc0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7d3fbe3a98b3b9",
+        "type": "tabs",
+        "dimension": 66.02658788774004,
+        "children": [
+          {
+            "id": "5086478204b14f0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3318fa939a83446a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a13f20d59cc2aaa",
+        "type": "tabs",
+        "dimension": 33.97341211225997,
+        "children": [
+          {
+            "id": "8f9ebea9dbe8c44a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Examples/Classes and Structs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46555fd0184b9570",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c9d552a1ae3f1e",
+        "type": "tabs",
+        "dimension": 53.16742081447964,
+        "children": [
+          {
+            "id": "87951fbfc91f1b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Examples/Classes and Structs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "39b299c9c1fe3514",
+        "type": "tabs",
+        "dimension": 46.83257918552036,
+        "children": [
+          {
+            "id": "c9a0d8dd8830e66d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Examples/Classes and Structs.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365
+  },
+  "lastOpenFiles": [
+    "Examples/Classes and Structs.md",
+    "Classes and Structs.md",
+    "Base info.md",
+    "Examples/Untitled.md",
+    "Untitled.md"
+  ]
+}
