@@ -8,10 +8,10 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 ## Big picture
 - [[Object Oriented Programming]]
 - [[Input Methods]]
-- <++>
+- Multi file programming
 
 ## Medium Picture
-- <++>
+- Creating a class
 - <++>
 - <++>
 

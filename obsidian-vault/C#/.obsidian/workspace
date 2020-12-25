@@ -17,7 +17,6 @@
       {
         "id": "eabd2057f8ea720c",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -41,6 +40,7 @@
       {
         "id": "cf792ab9c795c669",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples/Classes and Structs.md"
+                "file": "Object Oriented Programming.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/Classes and Structs.md",
+                "file": "Object Oriented Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Examples/Classes and Structs.md",
+                "file": "Object Oriented Programming.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -176,9 +176,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Examples/Classes and Structs.md",
     "Object Oriented Programming.md",
     "Base info.md",
+    "Examples/Classes and Structs.md",
     "Classes and Structs.md",
     "Input Methods.md",
     "System.ReadLine.md",
