@@ -1,0 +1,13 @@
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.exe
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.deps.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.runtimeconfig.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.runtimeconfig.dev.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.dll
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\bin\Debug\netcoreapp3.1\Classes and Structs.pdb
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.AssemblyInfoInputs.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.AssemblyInfo.cs
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.csproj.CoreCompileInputs.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.dll
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.pdb
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.genruntimeconfig.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Classes and Structs\Classes and Structs\obj\Debug\netcoreapp3.1\Classes and Structs.csprojAssemblyReference.cache

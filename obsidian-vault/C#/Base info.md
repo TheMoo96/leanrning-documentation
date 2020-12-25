@@ -7,7 +7,7 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 # Navigation
 ## Big picture
 - [[Classes and Structs]]
-- <++>
+- [[Input Methods]]
 - <++>
 
 ## Medium Picture
@@ -21,6 +21,6 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - <++>
 
 ## Micro Picture
-- <++>
-- <++>
+- [[System.ReadLine]]
+- [[Convert.ToByte(Int16)]]
 - <++>

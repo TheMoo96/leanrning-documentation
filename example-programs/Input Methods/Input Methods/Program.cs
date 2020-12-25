@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Classes_and_Structs
+namespace Multiplication
 {
     class Program
     {

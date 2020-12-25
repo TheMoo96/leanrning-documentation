@@ -1,6 +1,10 @@
-﻿using System;
+# [[input Methods#Functionality#Multiplication program]]
 
-namespace Classes_and_Structs
+``Program.cs``
+```cs
+using System;
+
+namespace Multiplication
 {
     class Program
     {
@@ -24,3 +28,4 @@ namespace Classes_and_Structs
         }
     }
 }
+```
