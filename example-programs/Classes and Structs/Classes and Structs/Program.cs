@@ -2,25 +2,54 @@
 
 namespace Classes_and_Structs
 {
-    class Program
+    public class ClassPerson
     {
-        static void Main(string[] args)
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public ClassPerson(string name, int age)
         {
-            Console.WriteLine("What do you want multiplied?");
-            Console.Write("       Enter int:");
-            string input = Console.ReadLine();
+            Name = name;
+            Age = age;
+        }
+    }
+    public struct StructPerson
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public StructPerson(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
+    }
+    class ClassProgram
+    {
+        static void Main()
+        {
+            // This uses a class.
+            ClassPerson person1 = new ClassPerson("Leo", 8);
+            Console.WriteLine($"person1 Name = {person1.Name} Age = {person1.Age}.");
 
-            Console.WriteLine($"By what do you want to muliply {input} with?");
-            Console.Write("       Enter int:");
-            string input2 = Console.ReadLine();
+            ClassPerson person2 = person1;
 
+            person2.Name = "Molly";
+            person2.Age = 29;
 
-            int number = Convert.ToInt16(input);
-            int number2 = Convert.ToInt16(input2);
+            Console.WriteLine($"person2 Name = {person2.Name} Age = {person2.Age}.");
+            Console.WriteLine($"person1 Name = {person1.Name} Age = {person1.Age}.");
 
-            int result = number * number2;
+            Console.WriteLine();
 
-            Console.WriteLine($"The result is {result}");
+            // This uses a struct.
+            StructPerson person3 = new StructPerson("John", 3);
+            Console.WriteLine($"person3 Name = {person3.Name} Age = {person3.Age}.");
+
+            StructPerson person4 = person3;
+            person4.Name = "Doris";
+            person4.Age = 90;
+
+            Console.WriteLine($"person4 Name = {person4.Name} Age = {person4.Age}.");
+            Console.WriteLine($"person3 Name = {person3.Name} Age = {person3.Age}.");
         }
     }
 }

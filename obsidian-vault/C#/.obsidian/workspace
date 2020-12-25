@@ -4,27 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "5dddc1f76e233ab4",
+        "id": "9235324e1e367675",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Base info.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "eabd2057f8ea720c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Examples/Classes and Structs.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "84cc73a16fa17730",
+        "id": "645061b17a52e003",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Object Oriented Programming.md",
+            "mode": "source"
+          }
+        },
+        "group": "e65800b295e55938"
+      },
+      {
+        "id": "cf792ab9c795c669",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes and Structs.md",
-            "mode": "source"
+            "file": "Object Oriented Programming.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "e65800b295e55938"
       }
     ],
     "direction": "vertical"
@@ -74,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base info.md"
+                "file": "Object Oriented Programming.md"
               }
             }
           }
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base info.md",
+                "file": "Object Oriented Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base info.md",
+                "file": "Object Oriented Programming.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Object Oriented Programming.md",
+    "Examples/Classes and Structs.md",
     "Base info.md",
     "Classes and Structs.md",
     "Input Methods.md",
     "System.ReadLine.md",
     "Examples/Input Methods.md",
-    "Examples/Classes and Structs.md",
     "Convert.ToByte(Int16).md",
     "Templates/Base.md",
-    "Untitled.md",
-    "Examples/Untitled.md"
+    "Untitled.md"
   ]
 }
