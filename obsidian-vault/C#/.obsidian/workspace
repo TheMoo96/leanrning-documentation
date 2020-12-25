@@ -6,6 +6,7 @@
       {
         "id": "5dddc1f76e233ab4",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "84cc73a16fa17730",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes and Structs.md"
+                "file": "Base info.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes and Structs.md",
+                "file": "Base info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Classes and Structs.md",
+                "file": "Base info.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,8 +152,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Classes and Structs.md",
     "Base info.md",
+    "Classes and Structs.md",
     "Input Methods.md",
     "System.ReadLine.md",
     "Examples/Input Methods.md",
