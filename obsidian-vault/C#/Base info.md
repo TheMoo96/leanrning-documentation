@@ -30,7 +30,7 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - [[Shortcuts]]
 - <++>
 
-## Code analysis
+## Code review
 - [[FizzBuzz]]
 - 
 

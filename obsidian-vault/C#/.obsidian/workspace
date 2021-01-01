@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/FizzBuzz!.md",
-            "mode": "preview"
+            "file": "FizzBuzz.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "3ae57960ca35324a",
+        "id": "f071ac2a4824b0a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Object Oriented Programming.md",
+            "file": "Examples/FizzBuzz!.md",
             "mode": "preview"
           }
         }
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples/FizzBuzz!.md"
+                "file": "FizzBuzz.md"
               }
             }
           }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "46555fd0184b9570",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/FizzBuzz!.md",
+                "file": "FizzBuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Examples/FizzBuzz!.md",
+                "file": "FizzBuzz.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,12 +152,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Examples/FizzBuzz!.md",
     "FizzBuzz.md",
+    "Base info.md",
+    "Examples/FizzBuzz!.md",
     "Examples/Classes and Structs.md",
     "Object Oriented Programming.md",
     "Classes and Structs.md",
-    "Base info.md",
     "Untitled.md",
     "Input Methods.md",
     "Templates/Base.md",
