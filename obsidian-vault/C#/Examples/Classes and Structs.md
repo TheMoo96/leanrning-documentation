@@ -1,4 +1,5 @@
-	# [[Object Oriented Programming#Functionality#Small use|Small use]]
+# [[Object Oriented Programming#Functionality#Small use|Small use]]
+	
 ``Program.cs``
 
 ```cs

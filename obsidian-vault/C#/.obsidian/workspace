@@ -4,51 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "9235324e1e367675",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base info.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eabd2057f8ea720c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Examples/Classes and Structs.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "645061b17a52e003",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Object Oriented Programming.md",
-            "mode": "source"
-          }
-        },
-        "group": "e65800b295e55938"
-      },
-      {
-        "id": "cf792ab9c795c669",
+        "id": "759eec127b294ad3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Examples/FizzBuzz!.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3ae57960ca35324a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Object Oriented Programming.md",
             "mode": "preview"
           }
-        },
-        "group": "e65800b295e55938"
+        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Programming.md"
+                "file": "Examples/FizzBuzz!.md"
               }
             }
           }
@@ -123,12 +99,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Programming.md",
+                "file": "Examples/FizzBuzz!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -145,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Object Oriented Programming.md",
+                "file": "Examples/FizzBuzz!.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -163,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1
+                  "scale": 0.7132754626224427
                 }
               }
             }
@@ -176,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Object Oriented Programming.md",
-    "Base info.md",
+    "Examples/FizzBuzz!.md",
+    "FizzBuzz.md",
     "Examples/Classes and Structs.md",
+    "Object Oriented Programming.md",
     "Classes and Structs.md",
+    "Base info.md",
+    "Untitled.md",
     "Input Methods.md",
-    "System.ReadLine.md",
-    "Examples/Input Methods.md",
-    "Convert.ToByte(Int16).md",
     "Templates/Base.md",
-    "Untitled.md"
+    "Shortcuts.md"
   ]
 }

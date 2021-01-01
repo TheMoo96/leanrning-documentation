@@ -11,8 +11,8 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - Multi file programming
 
 ## Medium Picture
-- Creating a class
-- <++>
+- [[Creating a class]]
+- [[Classes and Structs]]
 - <++>
 
 ## Small Picture
@@ -24,6 +24,15 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - [[System.ReadLine]]
 - [[Convert.ToByte(Int16)]]
 - <++>
+
+# Useful stuff
+## Visual Studio
+- [[Shortcuts]]
+- <++>
+
+## Code analysis
+- [[FizzBuzz]]
+- 
 
 # Notes and tools.
 ## Mermaid

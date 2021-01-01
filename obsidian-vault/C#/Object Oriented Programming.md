@@ -20,7 +20,7 @@ There's some memory management that makes the two have different use cases.
 
 # Functionality
 ## Big Picture
-Following [[Classes and Structs]].
+Following [[Examples/Classes and Structs|Classes and Structs]].
 ### Creating Class
 ```cs
 public class ClassPerson
