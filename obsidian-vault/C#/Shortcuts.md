@@ -3,13 +3,17 @@
 ### <++>
 
 # Functionality
-## /*<++>*/
-### 
+## Keyboard shortcuts for Visual Studio
+#### CTRL R, CTRL R
+Rename an element, such as a variable.
 
-## CTRL R, CTRL R
-### <++>
-## CTRL K, CTRL C
-## CTRL K, CTRL U
-## CTRL K, CTRL D
+### CTRL K, CTRL C
+Comment out a selected part of the code.
+
+### CTRL K, CTRL U
+Un-Comment a selected part of the code.
+
+### CTRL K, CTRL D
+"Fix" formatting. Make it to the standard.
 
 # Sources

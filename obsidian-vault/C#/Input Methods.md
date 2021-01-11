@@ -7,7 +7,7 @@ To multiply one user defined value by another user defined value we need to some
 
 # Functionality
 ### Multiplication program
-A [[System.ReadLine]] is requested by the use of ``System.ReadLine();`` in ``Program.cs``. It is [[Convert.ToByte(Int16)]] into an int.
+A [[Console.ReadLine]] is requested by the use of ``System.ReadLine();`` in ``Program.cs``. It is [[Convert.ToByte(Int16)]] into an int.
 
 It is done though the following:
 ```cs

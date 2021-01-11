@@ -1,0 +1,13 @@
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.exe
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.deps.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.runtimeconfig.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.runtimeconfig.dev.json
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.dll
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\bin\Debug\netcoreapp3.1\NumberExtractor.pdb
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.csprojAssemblyReference.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.AssemblyInfoInputs.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.AssemblyInfo.cs
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.csproj.CoreCompileInputs.cache
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.dll
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.pdb
+E:\Users\Leon\Documents\ProgrammingProjects\leanrning-documentation\example-programs\Number Extractor\NumberExtractor\NumberExtractor\obj\Debug\netcoreapp3.1\NumberExtractor.genruntimeconfig.cache

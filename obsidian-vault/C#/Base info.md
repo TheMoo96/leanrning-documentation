@@ -12,7 +12,7 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 
 ## Medium Picture
 - [[Creating a class]]
-- [[Classes and Structs]]
+- [[Classes and Structs]] ==Unfinished==
 - <++>
 
 ## Small Picture
@@ -21,8 +21,10 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - <++>
 
 ## Micro Picture
-- [[System.ReadLine]]
+- [[Console.ReadLine]]
 - [[Convert.ToByte(Int16)]]
+- [[Splitting Numbers]]
+- [[Modulus]] ==Unfinished==
 - <++>
 
 # Useful stuff
@@ -31,10 +33,14 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - <++>
 
 ## Code review
-- [[FizzBuzz]]
+- [[FizzBuzz]] ==Unfinished==
 - 
 
 # Notes and tools.
+## TODO
+- Finish [[Modulus]]
+- Finish [[FizzBuzz]] code review
+
 ## Mermaid
 A markdown thing for flowcharts and shit. Works naively with Obsidian.
 https://mermaid-js.github.io/mermaid/#/

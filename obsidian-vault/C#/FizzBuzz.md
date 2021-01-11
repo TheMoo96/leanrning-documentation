@@ -11,14 +11,14 @@ It outputs all the numbers in sequence following these rules.
 ## [[FizzBuzz!#Moo Version|My Version]]
 ### Code Explanation
 The code runs a [[for loop]] with ``int i`` going from 1 to 100. 
-Each loop it checks though an [[if, else if]] list to find if ``i`` is divisible by 3 and 5, or 3, or 5, in that order, and prints the corresponding response. 
+Each loop it checks through an [[if, else if]] list to find if ``i`` is divisible by 3 and 5, or 3, or 5, in that order, and prints the corresponding response. 
 The FizzBuzz possibility must be at the top as having it below Fizz would mean that the Fizz possibility wold get detected first and break out the 'if, else if' list. If none of these are true then it prints the number instead. 
 It prints a new line and the 'for loop' continues. 
 
 ### Potential improvements. 
 - The program will be exponentially harder to expand. The move from 2 conditions to 3 conditions will add one solo, two versions of the double, and a new triple, for a total of 4 new entries. 
 	- With 4 conditions you'd now have to add one solo, three versions of the double, three versions of the triple case, and a new quad, for a total of 8 new entries. 
-EX:  
+EX on 3 cases:  
 ```cs
 if (i % 3 == 0 && i % 5 == 0 && i % 7 == 0)	// New Tripple Class
 	Console.Write("FizzBuzzWizz!!")
