@@ -12,7 +12,6 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 
 ## Medium Picture
 - [[Creating a class]]
-- [[Classes and Structs]] ==Unfinished==
 - <++>
 
 ## Small Picture
@@ -24,7 +23,7 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - [[Console.ReadLine]]
 - [[Convert.ToByte(Int16)]]
 - [[Splitting Numbers]]
-- [[Modulus]] ==Unfinished==
+- [[Modulus]]
 - <++>
 
 # Useful stuff
@@ -33,7 +32,7 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - <++>
 
 ## Code review
-- [[FizzBuzz]] ==Unfinished==
+- [[FizzBuzz]]
 - 
 
 # Notes and tools.

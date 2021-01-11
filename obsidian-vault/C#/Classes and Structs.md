@@ -1,9 +1,0 @@
-# Abstract
-## Uses
-### <++>
-
-# Functionality
-## <++>
-### <++>
-
-# Sources

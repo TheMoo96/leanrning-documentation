@@ -16,4 +16,15 @@ After this we replace ``temp`` with ``temp divided by 10`` and as long as ``temp
 
 Once ``temp`` temp is below 10, we output that value and the program is completed.
 
+#### Potential improvements
+```cs
+while (input > 1)
+{
+    Console.WriteLine(input % 10);
+    input /= 10;
+}
+```
+This here will loop the extractor til it runs out of numbers, removing the need for the last exit function of pushing out a last number.
+
 # Sources
+https://stackoverflow.com/questions/17524673/understanding-the-modulus-operator
