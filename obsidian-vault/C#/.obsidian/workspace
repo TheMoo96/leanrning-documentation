@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5dddc1f76e233ab4",
+        "id": "652d5f84f9aa8694",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base info.md",
+            "file": "Examples/Div Checker.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "84cc73a16fa17730",
+        "id": "a8f1f57b474534c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes and Structs.md",
-            "mode": "source"
+            "file": "Examples/Number Extractor.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base info.md"
+                "file": "Examples/Div Checker.md"
               }
             }
           }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "46555fd0184b9570",
@@ -99,12 +99,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base info.md",
+                "file": "Examples/Div Checker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base info.md",
+                "file": "Examples/Div Checker.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -139,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1
+                  "scale": 0.7132754626224427
                 }
               }
             }
@@ -148,19 +148,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365,
-    "collapsed": true
+    "width": 365
   },
   "lastOpenFiles": [
-    "Base info.md",
-    "Classes and Structs.md",
-    "Input Methods.md",
-    "System.ReadLine.md",
-    "Examples/Input Methods.md",
-    "Examples/Classes and Structs.md",
-    "Convert.ToByte(Int16).md",
-    "Templates/Base.md",
     "Untitled.md",
-    "Examples/Untitled.md"
+    "Shortcuts.md",
+    "Splitting Numbers.md",
+    "Examples/Number Extractor.md",
+    "Examples/Classes and Structs.md",
+    "Base info.md",
+    "Object Oriented Programming.md",
+    "Classes and Structs.md",
+    "Modulus.md",
+    "FizzBuzz.md"
   ]
 }

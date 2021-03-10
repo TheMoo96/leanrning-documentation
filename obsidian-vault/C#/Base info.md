@@ -6,13 +6,12 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 
 # Navigation
 ## Big picture
-- [[Classes and Structs]]
+- [[Object Oriented Programming]]
 - [[Input Methods]]
-- <++>
+- Multi file programming
 
 ## Medium Picture
-- <++>
-- <++>
+- [[Creating a class]]
 - <++>
 
 ## Small Picture
@@ -21,6 +20,27 @@ Most of the information comes from [here](https://docs.microsoft.com/en-us/dotne
 - <++>
 
 ## Micro Picture
-- [[System.ReadLine]]
+- [[Console.ReadLine]]
 - [[Convert.ToByte(Int16)]]
+- [[Splitting Numbers]]
+- [[Modulus]]
 - <++>
+
+# Useful stuff
+## Visual Studio
+- [[Shortcuts]]
+- <++>
+
+## Code review
+- [[FizzBuzz]]
+- 
+
+# Notes and tools.
+## TODO
+- Finish [[Modulus]]
+- Finish [[FizzBuzz]] code review
+
+## Mermaid
+A markdown thing for flowcharts and shit. Works naively with Obsidian.
+https://mermaid-js.github.io/mermaid/#/
+[Live Editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuXHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9) 
